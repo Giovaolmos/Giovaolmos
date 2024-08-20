@@ -29,4 +29,4 @@ Aquí están algunas de las tecnologías con las que trabajo:
 Busco una empresa en la cual pueda poner en práctica todos mis conocimientos adquiridos y expandir aún más mis habilidades. 🎯
 
 ### Contáctame
-Puedes contactarme en: [giovaolmosdev@gmail.com](mailto:giovaolmosdev@gmail.com) ✉️
+Puedes contactarme en: [giovaolmosdev@gmail.com](mailto:giovaolmosdev@gmail.com) ✉️ o a +54 264 610 6910 📞
