@@ -29,7 +29,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 - [Edufee-Deploy](https://edufee.vercel.app/) - [Edufee-Repository](https://github.com/MCEmilyMorales/Edufee-) : Pasarela de pagos para estudiantes hacia sus instituciones. Este proyecto fue desarrollado en equipo, donde colaboré junto a otras personas para lograr la implementación completa.
 
 ### ¿A dónde me dirijo?
-Busco una empresa en la cual pueda poner en práctica todos mis conocimientos adquiridos y expandir aún más mis habilidades. 🎯
+En esta etapa de mi vida estoy buscando desarrollarme profesionalmente trabajando para una empresa, mi mayor meta en este momento es adquirir la mayor cantidad de conocimientos e información para mi carrera.
 
 ### Contáctame
 Puedes contactarme en: [giovaolmosdev@gmail.com](mailto:giovaolmosdev@gmail.com) ✉️ o a +54 264 610 6910 📞
