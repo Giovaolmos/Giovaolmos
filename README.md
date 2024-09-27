@@ -1,11 +1,6 @@
 # ¡Hola! Mi nombre es **Giovanni Olmos** 👋
 
-## Desarrollador Web Full Stack | Estudiante de Técnico Superior en Programación 💻
-
-
-# ¡Hola! Mi nombre es **Giovanni Olmos** 👋
-
-## Desarrollador Web Full Stack | Estudiante de Técnico Superior en Programación 💻
+## Desarrollador Web Full Stack y estudiante avanzado de Técnico Superior en Programación 💻
 
 ### Tecnologías
 Aquí están algunas de las tecnologías con las que trabajo:
