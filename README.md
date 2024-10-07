@@ -27,7 +27,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovaolmos&show_icons=true&theme=radical)
 
 ### Proyectos Destacados
-- [Edufee-Deploy](https://edufee.vercel.app/) - [Edufee-Repository](https://github.com/MCEmilyMorales/Edufee-) : Pasarela de pagos para estudiantes hacia sus instituciones. Este proyecto fue desarrollado en equipo, donde colaboré junto a otras personas para lograr la implementación completa.
+- [Edufee-Deploy](https://edufee.vercel.app/) - [Edufee-Repository](https://github.com/MCEmilyMorales/Edufee-) : Pasarela de pagos para estudiantes a sus respectivas instituciones educativas. Este proyecto fue desarrollado en equipo, donde colaboré con otros colegas desarrolladores organizándonos las tareas mediante Jira para lograr un buen trabajo en conjunto.
 
 ### ¿A dónde me dirijo?
 En esta etapa de mi vida estoy buscando desarrollarme profesionalmente trabajando para una empresa, mi mayor meta en este momento es adquirir la mayor cantidad de conocimientos e información para mi carrera.
