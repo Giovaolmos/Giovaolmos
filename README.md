@@ -1,6 +1,6 @@
 # ¡Hola! Mi nombre es **Giovanni Olmos** 👋
 
-## Desarrollador Web Full Stack y estudiante avanzado de Técnico Superior en Programación 💻
+## Desarrollador Full Stack y estudiante avanzado de Técnico Superior en Programación 💻
 
 Visita mi [**Portfolio personal**](https://giovanniolmos-portfolio.netlify.app/) para conocer más sobre mí.
 ### Tecnologías
