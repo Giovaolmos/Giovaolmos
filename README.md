@@ -30,7 +30,10 @@ Aquí están algunas de las tecnologías con las que trabajo:
 - [Edufee-Deploy](https://edufee.vercel.app/) - [Edufee-Repository](https://github.com/MCEmilyMorales/Edufee-) : Pasarela de pagos para estudiantes a sus respectivas instituciones educativas. Este proyecto fue desarrollado en equipo, donde colaboré con otros colegas desarrolladores organizándonos las tareas mediante Jira para lograr un buen trabajo en conjunto.
 
 ### ¿A dónde me dirijo?
-En esta etapa de mi vida estoy buscando desarrollarme profesionalmente trabajando para una empresa, mi mayor meta en este momento es adquirir la mayor cantidad de conocimientos e información para mi carrera.
+En esta etapa de mi desarrollo profesional, busco continuar ampliando mis conocimientos y
+experiencia en el sector IT como desarrollador web. Si bien soy de San Juan, estoy abierto a
+oportunidades que requieran reubicación tanto dentro de Argentina como en el exterior. Estoy
+altamente comprometido con mi formación y crecimiento en el ámbito tecnológico.
 
 ### Contáctame
 Puedes contactarme en: [giovaolmosdev@gmail.com](mailto:giovaolmosdev@gmail.com) ✉️ o a +54 264 610 6910 📞
