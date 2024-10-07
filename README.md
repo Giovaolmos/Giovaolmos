@@ -31,7 +31,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 ### ¿A dónde me dirijo?
 En esta etapa de mi desarrollo profesional, busco continuar ampliando mis conocimientos y
-experiencia en el sector IT como desarrollador web. Si bien soy de San Juan, estoy abierto a
+experiencia en el sector IT como desarrollador web. Si bien soy de San Juan - Argentina, estoy abierto a
 oportunidades que requieran reubicación tanto dentro de Argentina como en el exterior. Estoy
 altamente comprometido con mi formación y crecimiento en el ámbito tecnológico.
 
