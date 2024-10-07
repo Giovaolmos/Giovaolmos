@@ -2,7 +2,7 @@
 
 ## Desarrollador Web Full Stack y estudiante avanzado de Técnico Superior en Programación 💻
 
-[**Visita mi portfolio personal**](https://giovanniolmos-portfolio.netlify.app/) para conocer más sobre mi.
+Visita mi [**Portfolio personal**](https://giovanniolmos-portfolio.netlify.app/) para conocer más sobre mí.
 ### Tecnologías
 Aquí están algunas de las tecnologías con las que trabajo:
 
