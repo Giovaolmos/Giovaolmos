@@ -26,7 +26,6 @@ Aquí están algunas de las tecnologías que manejo:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Fetch](https://img.shields.io/badge/Fetch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 #### Otras Tecnologías
