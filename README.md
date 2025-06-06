@@ -41,8 +41,6 @@ Aquí están algunas de las tecnologías que manejo:
 ### Estadísticas GitHub
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovaolmos&show_icons=true&theme=radical)
 
-### ¿A dónde me dirijo?
-En esta etapa de mi desarrollo profesional, busco continuar ampliando mis conocimientos y experiencia en el sector IT como desarrollador web. Si bien soy de San Juan, Argentina, estoy abierto a oportunidades que requieran reubicación tanto dentro de Argentina como en el exterior. Estoy altamente comprometido con mi formación y crecimiento en el ámbito tecnológico.
 
 ### Contáctame
 Puedes contactarme en: [giovaolmosdev@gmail.com](mailto:giovaolmosdev@gmail.com) ✉️ o a +54 264 610 6910 📞
