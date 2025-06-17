@@ -2,8 +2,6 @@
 
 ## Desarrollador Web 💻
 
-Visita mi [**Portfolio personal**](https://giovanniolmos-portfolio.netlify.app/) para conocer más sobre mí.
-
 ### Tecnologías
 Aquí están algunas de las tecnologías que manejo:
 
