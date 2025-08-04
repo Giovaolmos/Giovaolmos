@@ -1,6 +1,6 @@
 # ¡Hola! Mi nombre es **Giovanni Olmos** 👋
 
-## Desarrollador Web 💻
+## Desarrollador Web Full Stack💻
 
 ### Tecnologías
 Algunas de las tecnologías más relevantes que manejo:
