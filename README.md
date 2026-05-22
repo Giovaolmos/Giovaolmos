@@ -34,10 +34,5 @@ Algunas de las tecnologías más relevantes que manejo:
 
 
 
-
-### Estadísticas GitHub
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovaolmos&show_icons=true&theme=radical)
-
-
 ### Contáctame
 Puedes contactarme en: [giovaolmosdev@gmail.com](mailto:giovaolmosdev@gmail.com) ✉️ o a +54 264 610 6910 📞
